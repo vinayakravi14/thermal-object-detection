@@ -23,9 +23,8 @@ For example: python3 detector.py '../data/footy2/' '.png'
 ```
 ## Example detector window, after running the script
 
-![alt text](/home/vinayak_ravi/Documents/git/thermal-object-detection/object_tracking_CV/sample/output.png)
 
-
+<img src="https://github.com/vinayakravi14/thermal-object-detection/blob/main/object_tracking_CV/sample/output.png" alt="sample_output"/>
 
 
 
